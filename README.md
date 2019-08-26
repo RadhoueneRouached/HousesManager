@@ -1,4 +1,4 @@
-Development
+# Development
 
 * JDK 1.8 required
 * MySQL
@@ -16,5 +16,14 @@ Development
     * `SPRING_DATASOURCE_USERNAME` MYSQL username
     * `SPRING_DATASOURCE_PASSWORD` MYSQL password
     
-* Documentation  
+# Documentation  
 After starting the server you can find the API documentation under http://localhost:8080/swagger-ui.html
+
+
+## Authors
+
+* **Radhouene ROUACHED** - *Initial work* 
+
+## License
+
+GPL 3.0, see [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html).
