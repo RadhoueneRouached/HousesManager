@@ -1,0 +1,12 @@
+C:\Users\RAD\Desktop\HousesManager\src\main\java\com\uim\config\SwaggerConfig.java
+C:\Users\RAD\Desktop\HousesManager\src\main\java\com\uim\web\HouseResource.java
+C:\Users\RAD\Desktop\HousesManager\src\main\java\com\uim\exceptions\ErrorResponse.java
+C:\Users\RAD\Desktop\HousesManager\src\main\java\com\uim\exceptions\RestExceptionHandler.java
+C:\Users\RAD\Desktop\HousesManager\src\main\java\com\uim\models\House.java
+C:\Users\RAD\Desktop\HousesManager\src\main\java\com\uim\HouseApplication.java
+C:\Users\RAD\Desktop\HousesManager\src\main\java\com\uim\service\HouseServiceImpl.java
+C:\Users\RAD\Desktop\HousesManager\src\main\java\com\uim\exceptions\HouseException.java
+C:\Users\RAD\Desktop\HousesManager\src\main\java\com\uim\models\WriteHouseDto.java
+C:\Users\RAD\Desktop\HousesManager\src\main\java\com\uim\models\Response.java
+C:\Users\RAD\Desktop\HousesManager\src\main\java\com\uim\repository\HouseRepository.java
+C:\Users\RAD\Desktop\HousesManager\src\main\java\com\uim\service\HouseService.java

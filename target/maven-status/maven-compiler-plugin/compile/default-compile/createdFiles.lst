@@ -1,0 +1,16 @@
+com\uim\web\HouseResource.class
+com\uim\models\House$HouseBuilder.class
+com\uim\exceptions\ErrorResponse$ErrorResponseBuilder.class
+com\uim\exceptions\RestExceptionHandler.class
+com\uim\repository\HouseRepository.class
+com\uim\models\House.class
+com\uim\HouseApplication.class
+com\uim\models\Response.class
+com\uim\exceptions\HouseException.class
+com\uim\config\SwaggerConfig.class
+com\uim\service\HouseService.class
+com\uim\models\Response$ResponseBuilder.class
+com\uim\models\WriteHouseDto.class
+com\uim\models\WriteHouseDto$WriteHouseDtoBuilder.class
+com\uim\service\HouseServiceImpl.class
+com\uim\exceptions\ErrorResponse.class

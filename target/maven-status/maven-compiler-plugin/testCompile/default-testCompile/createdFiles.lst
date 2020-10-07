@@ -1,0 +1,4 @@
+com\uim\service\HouseServiceTest.class
+com\uim\HouseApplicationTest.class
+com\uim\data\HouseProvider.class
+com\uim\web\HouseResourceTest.class
