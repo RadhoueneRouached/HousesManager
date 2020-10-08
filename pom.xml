@@ -17,7 +17,6 @@
 	<properties>
 		<start-class>com.uim.HouseApplication</start-class>
 		<java.version>11</java.version>
-		<maven.compiler.release>11</maven.compiler.release>
 	</properties>
 
 	<dependencies>
@@ -116,9 +115,7 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.8.1</version>
 				<configuration>
-					<source>${java.version}</source>
-					<target>${java.version}</target>
-					<verbose>true</verbose>
+					<release>11</release>
 				</configuration>
 			</plugin>
 		</plugins>
